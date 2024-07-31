@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.test
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Build directories
+dist/
+build/
+
+# Swagger auto-generated files
+swagger.json
+
+# Editor directories and files
+.vscode/
+.history/
+
+# Output of the ts-node
+*.js
+
